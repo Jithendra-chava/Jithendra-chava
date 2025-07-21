@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jithendra Chava
 
-I'm a Data Analyst with over 3 years of experience solving real-world problems in healthcare and financial domains. I help organizations make better decisions by designing end-to-end data solutions — from building clean, reliable pipelines to developing dashboards and predictive models that drive impact.
+I'm a Data Analyst with over 3 years of experience solving real-world problems in healthcare and financial domains. I help organizations make better decisions by designing end-to-end data solutions from building clean, reliable pipelines to developing dashboards and predictive models that drive impact.
 
 I’m currently part of the analytics team at **HCA Healthcare**, where I work on reducing hospital readmissions and improving clinical outcomes through data. My day-to-day involves building ETL workflows, writing complex SQL queries, visualizing KPIs in Power BI and Tableau, and using Python for deep-dive statistical analysis. Previously, I worked at **Aplus Datalytics**, where I developed risk models and automated financial reporting pipelines used by investment advisors and compliance teams.
 
